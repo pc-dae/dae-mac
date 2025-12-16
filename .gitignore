@@ -1,0 +1,7 @@
+.DS_Store
+secrets/.vault-init.json
+secrets/.argocd-admin-password
+secrets/.grafana-admin-password
+secrets/*-secrets.sh
+resources/*.pem
+resources/*.key
