@@ -1,5 +1,5 @@
 dnsSuffix: observability.kubernetes.internal
-clusterIP: 10.96.201.185
+clusterIP: TBA
 storageClass: standard
 namespaces:
  - vault
