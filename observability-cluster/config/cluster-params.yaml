@@ -1,5 +1,5 @@
 dnsSuffix: observability.kubernetes.internal
-clusterIP: 10.96.29.48
+clusterIP: TBA
 storageClass: standard
 namespaces:
  - vault
@@ -11,7 +11,7 @@ namespaces:
  - otel-collector
  - cert-manager
  - victoria-metrics
- - splunk
+
 caCert: |
   -----BEGIN CERTIFICATE-----
   MIIFETCCAvmgAwIBAgIUB3PRsiDUxSlu8XGBOi5CqKuF8TIwDQYJKoZIhvcNAQEL
