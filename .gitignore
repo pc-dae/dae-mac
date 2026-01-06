@@ -2,7 +2,7 @@
 secrets/.vault-init.json
 secrets/.argocd-admin-password
 secrets/.grafana-admin-password
-secrets/.splunk-password
+secrets/.splunk-token
 secrets/*-secrets.sh
 resources/*.pem
 resources/*.key
